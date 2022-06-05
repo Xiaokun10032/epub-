@@ -1,0 +1,5 @@
+@charset "UTF-8";
+/*! ePub CSS, by 两仪天心&轻亦之间, v1.0.0 */
+/* Title Page */
+.title_page .shadow { color: white; text-shadow: 0 0 3px #e61650; text-shadow: 0 0 0.1em #e61650, 0.05em 0 0.1em #e61650, 0.05em 0.05em 0.1em #e61650, 0 0.05em 0.1em #e61650; }
+.title_page .color { color: #e80113; }

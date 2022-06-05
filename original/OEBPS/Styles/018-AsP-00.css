@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/*! ePub CSS, series-アサシンズプライド, by 两仪天心&轻亦之间, v1.0.0 */
+/* Title Page */
+.title_page .bg { color: white; background: black; height: 6em; padding: 0.1em; }
+.title_page p.scale, .title_page .scale p { padding-top: 0.1em; padding-bottom: 0.1em; transform: scaleY(1.2); -webkit-transform: scaleY(1.2); }
+/* Chapter */
+.chapter .eqdiv { border-top: 0.25em double black; border-bottom: 0.25em double black; padding: 0.5em 0; margin: 1.5em 5%; text-indent: 0; }

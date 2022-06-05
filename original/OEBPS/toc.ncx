@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:0d12f4d9-81cb-44e7-be2d-9612073f54df"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+<docTitle>
+  <text>刺客守则 11 暗杀教师与禁书阶梯</text>
+</docTitle>
+<navMap>
+  <navPoint id="navPoint1">
+    <navLabel>
+      <text>封面</text>
+    </navLabel>
+    <content src="Text/cover.xhtml"/>
+  </navPoint>
+  <navPoint id="navPoint2">
+    <navLabel>
+      <text>标题页</text>
+    </navLabel>
+    <content src="Text/title_page.xhtml"/>
+  </navPoint>
+  <navPoint id="navPoint3">
+    <navLabel>
+      <text>制作信息</text>
+    </navLabel>
+    <content src="Text/information-1.xhtml"/>
+  </navPoint>
+  <navPoint id="navPoint4">
+    <navLabel>
+      <text>简介</text>
+    </navLabel>
+    <content src="Text/introduction.xhtml"/>
+  </navPoint>
+  <navPoint id="navPoint5">
+    <navLabel>
+      <text>彩页</text>
+    </navLabel>
+    <content src="Text/interlining.xhtml"/>
+  </navPoint>
+  <navPoint id="navPoint6">
+    <navLabel>
+      <text>目录</text>
+    </navLabel>
+    <content src="Text/nav.xhtml"/>
+  </navPoint>
+  <navPoint id="navPoint7">
+    <navLabel>
+      <text>正文</text>
+    </navLabel>
+    <content src="Text/chapter-1.xhtml"/>
+    <navPoint id="navPoint8">
+      <navLabel>
+        <text>HOMEROOM EARLIER</text>
+      </navLabel>
+      <content src="Text/chapter-1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint9">
+      <navLabel>
+        <text>LESSON:Ⅰ ～天使的隐居所～</text>
+      </navLabel>
+      <content src="Text/chapter-2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint10">
+      <navLabel>
+        <text>LESSON:Ⅱ ～『圣女』与伯爵～</text>
+      </navLabel>
+      <content src="Text/chapter-3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint11">
+      <navLabel>
+        <text>LESSON:Ⅲ ～寻求指引的人们～</text>
+      </navLabel>
+      <content src="Text/chapter-4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint12">
+      <navLabel>
+        <text>LESSON:Ⅳ ～必须忘掉的那个名字～</text>
+      </navLabel>
+      <content src="Text/chapter-5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint13">
+      <navLabel>
+        <text>LESSON:Ⅴ ～愉快的歌剧手～</text>
+      </navLabel>
+      <content src="Text/chapter-6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint14">
+      <navLabel>
+        <text>LESSON:Ⅵ ～Wonderful Child～</text>
+      </navLabel>
+      <content src="Text/chapter-7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint15">
+      <navLabel>
+        <text>LESSON:Ⅶ ～向你献上赤红的爱～</text>
+      </navLabel>
+      <content src="Text/chapter-8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint16">
+      <navLabel>
+        <text>HOMEROOM LATER</text>
+      </navLabel>
+      <content src="Text/chapter-9.xhtml"/>
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint17">
+    <navLabel>
+      <text>后记</text>
+    </navLabel>
+    <content src="Text/afterword.xhtml"/>
+  </navPoint>
+</navMap>
+</ncx>

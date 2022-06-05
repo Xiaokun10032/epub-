@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="tle">刺客守则 11 暗杀教师与禁书阶梯</dc:title>
+    <meta property="alternate-script" xml:lang="ja" refines="#tle">アサシンズプライド 11 暗殺教師と禁書階梯</meta>
+    <meta property="title-type" refines="#tle">main</meta>
+    <meta property="file-as" refines="#tle">刺客守则 11 暗杀教师与禁书阶梯</meta>
+    <meta property="belongs-to-collection" id="num">刺客守则</meta>
+    <meta property="alternate-script" xml:lang="ja" refines="#num">アサシンズプライド</meta>
+    <meta property="group-position" refines="#num">2</meta>
+    <meta property="collection-type" refines="#num">series</meta>
+    <dc:creator id="cre">天城ケイ</dc:creator>
+    <meta property="file-as" refines="#cre">天城ケイ</meta>
+    <dc:contributor id="ill">ニノモトニノ</dc:contributor>
+    <meta scheme="marc:relators" property="role" refines="#ill">ill</meta>
+    <meta property="file-as" refines="#ill">ニノモトニノ</meta>
+    <dc:contributor id="pro">轻之国度ePub组（epub模板来源）</dc:contributor>
+    <meta scheme="marc:relators" property="role" refines="#pro">pro</meta>
+    <dc:description>「赌上暗杀教师的骄傲，向世界展现少女的价值！」
+    </dc:description>
+    <dc:publisher>提灯中的世界·弗兰德尔</dc:publisher>
+    <dc:subject>轻小说</dc:subject>
+    <dc:language>zh-CN</dc:language>
+    <dc:date>2016-04-20</dc:date>
+    <dc:identifier id="BookId">urn:uuid:0d12f4d9-81cb-44e7-be2d-9612073f54df</dc:identifier>
+    <meta content="0.9.10" name="Sigil version"/>
+    <meta content="1.0.0" name="ePub version"/>
+    <meta property="dcterms:modified">2022-06-05T01:57:04Z</meta>
+    <meta name="cover" content="cover.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="title_page.xhtml" href="Text/title_page.xhtml" media-type="application/xhtml+xml"/>
+    <item id="information-2.xhtml" href="Text/information-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="information-1.xhtml" href="Text/information-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="introduction.xhtml" href="Text/introduction.xhtml" media-type="application/xhtml+xml"/>
+    <item id="interlining.xhtml" href="TEXT/interlining.xhtml" media-type="application/xhtml+xml"/>
+    <item id="color_page-1.xhtml" href="Text/color_page-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="color_page-2.xhtml" href="Text/color_page-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="color_page-3.xhtml" href="Text/color_page-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1.xhtml" href="Text/chapter-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2.xhtml" href="Text/chapter-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3.xhtml" href="Text/chapter-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-4.xhtml" href="Text/chapter-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-5.xhtml" href="Text/chapter-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-6.xhtml" href="Text/chapter-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-7.xhtml" href="Text/chapter-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-8.xhtml" href="Text/chapter-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-9.xhtml" href="Text/chapter-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="afterword.xhtml" href="Text/afterword.xhtml" media-type="application/xhtml+xml"/>
+    <item id="color-1.jpg" href="Images/color-1.jpg" media-type="image/jpeg"/>
+    <item id="color-2.jpg" href="Images/color-2.jpg" media-type="image/jpeg"/>
+    <item id="color-3.jpg" href="Images/color-3.jpg" media-type="image/jpeg"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="interlining.jpg" href="Images/interlining.jpg" media-type="image/jpeg"/>
+    <item id="illus-01.jpg" href="Images/illus-01.jpg" media-type="image/jpeg"/>
+    <item id="illus-02.jpg" href="Images/illus-02.jpg" media-type="image/jpeg"/>
+    <item id="illus-03.jpg" href="Images/illus-03.jpg" media-type="image/jpeg"/>
+    <item id="illus-04.jpg" href="Images/illus-04.jpg" media-type="image/jpeg"/>
+    <item id="illus-05.jpg" href="Images/illus-05.jpg" media-type="image/jpeg"/>
+    <item id="illus-06.jpg" href="Images/illus-06.jpg" media-type="image/jpeg"/>
+    <item id="illus-07.jpg" href="Images/illus-07.jpg" media-type="image/jpeg"/>
+    <item id="illus-08.jpg" href="Images/illus-08.jpg" media-type="image/jpeg"/>
+    <item id="illus-09.jpg" href="Images/illus-09.jpg" media-type="image/jpeg"/>
+    <item id="illus-10.jpg" href="Images/illus-10.jpg" media-type="image/jpeg"/>
+    <item id="illus-11.jpg" href="Images/illus-11.jpg" media-type="image/jpeg"/>
+    <item id="maker.ttf" href="Fonts/maker.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="source.ttf" href="Fonts/source.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="x000-TL2-01_FRM.css" href="Styles/000-TL2-01_FRM.css" media-type="text/css"/>
+    <item id="x000-TL2-02_STD.css" href="Styles/000-TL2-02_STD.css" media-type="text/css"/>
+    <item id="x000-TL2-03_ADV.css" href="Styles/000-TL2-03_ADV.css" media-type="text/css"/>
+    <item id="x000-TL2-04_SIG.css" href="Styles/000-TL2-04_SIG.css" media-type="text/css"/>
+    <item id="x000-TL2-05_TMP.css" href="Styles/000-TL2-05_TMP.css" media-type="text/css"/>
+    <item id="x018-AsP-00.css" href="Styles/018-AsP-00.css" media-type="text/css"/>
+    <item id="aut.ttf" href="Fonts/aut.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="ill.ttf" href="Fonts/ill.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="order.ttf" href="Fonts/order.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="title.ttf" href="Fonts/title.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="contents.ttf" href="Fonts/contents.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="subtitle.ttf" href="Fonts/subtitle.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="x018-AsP-02.css" href="Styles/018-AsP-02.css" media-type="text/css"/>
+    <item id="team.ttf" href="Fonts/team.ttf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="title_page.xhtml"/>
+    <itemref idref="information-1.xhtml"/>
+    <itemref idref="information-2.xhtml"/>
+    <itemref idref="introduction.xhtml"/>
+    <itemref idref="interlining.xhtml"/>
+    <itemref idref="color_page-1.xhtml"/>
+    <itemref idref="color_page-2.xhtml"/>
+    <itemref idref="color_page-3.xhtml"/>
+    <itemref idref="nav.xhtml"/>
+    <itemref idref="chapter-1.xhtml"/>
+    <itemref idref="chapter-2.xhtml"/>
+    <itemref idref="chapter-3.xhtml"/>
+    <itemref idref="chapter-4.xhtml"/>
+    <itemref idref="chapter-5.xhtml"/>
+    <itemref idref="chapter-6.xhtml"/>
+    <itemref idref="chapter-7.xhtml"/>
+    <itemref idref="chapter-8.xhtml"/>
+    <itemref idref="chapter-9.xhtml"/>
+    <itemref idref="afterword.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="目录" href="Text/nav.xhtml"/>
+    <reference type="cover" title="封面" href="Text/cover.xhtml"/>
+    <reference type="title-page" title="标题页" href="Text/title_page.xhtml"/>
+    <reference type="other.introduction" title="" href="Text/introduction.xhtml"/>
+  </guide>
+</package>
